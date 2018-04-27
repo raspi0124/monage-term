@@ -20,3 +20,25 @@
 お問い合せ
 弊サービスの個人情報の取扱に関するお問い合せは下記までご連絡ください。
 raspi0124[at]gmail.com
+
+Our service will establish the personal information protection policy as follows.
+
+Word means:
+Command - Any message starts with "/"
+This service or our service - Monage Discord Edition.
+
+Purpose to get personal info:
+Our service logs every command you typed on Monage invited Discord Server, and those logs are used to inspect in case of hacking or possibility of problem.
+
+Giving personal info to other people:
+This service will manage your personal info, and won't public them except in case of those below happen.
+・When user agreed to public it
+・When it is necessary to disclose based on laws and ordinances
+
+
+Compliance with laws and regulations, norms and reviews:
+This service will follow Japanese law, and review this policy to implove.
+
+Contact:
+Please contact to 
+raspi0124[at]gmail.com incase you have question about this.
