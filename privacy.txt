@@ -7,7 +7,7 @@
 本サービス - Monage Discord Editionです。
 
 個人情報の利用目的
-本サービスでは、実行されたコマンド及び実行された日時、誰に実行されたか、どのサーバー、チャンネルで実行されたかの情報等を常時保全のために記録しています。この情報はハッキングや不具合があると思われる等の際に使用されます。なお、これらのログは/helpに記載された所定のコマンドを実行することによって直近72時間より前のものを削除することが可能です。
+本サービスでは、実行されたコマンド及び実行された日時、誰に実行されたか、どのサーバー、チャンネルで実行されたかの情報等を常時保全のために記録しています。この情報はハッキングや不具合があると思われる等の際に使用されます。
 
 個人情報の第三者への開示・提供の禁止
 弊サービスは、これらのログを適切に管理し、次のいずれかに該当する場合を除き、個人情報を第三者に開示いたしません。
@@ -30,7 +30,7 @@ Command - Any message starts with "/"
 This service or our service - Monage Discord Edition.
 
 Purpose to get personal info:
-Our service logs every command you typed on Monage invited Discord Server, and those logs are used to inspect in case of hacking or possibility of problem.In case if you want to remove your log, please see /help and by proceeding the command, the log will be removed except for the log that has been created within this 72 hour, and that 72hour-log also will be removed within 72 hour.
+Our service logs every command you typed on Monage invited Discord Server, and those logs are used to inspect in case of hacking or possibility of problem.
 
 Giving personal info to other people:
 This service will manage your personal info, and won't public them except in case of those below happen.
