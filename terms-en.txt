@@ -23,3 +23,5 @@ Preamble,Incase of conflict to Japanese version, Japanese version of articles wi
 4, Any person under age of 16 should have parent permission in order to agree tos and use monage.
 4. This ToS can be changed without notice at anytime.
 In case of doubt that the above acts were done,we have right to report it to administrative organs such as police and ban from the service and other related service
+
+You may agree tos with /cagreedtos command.
