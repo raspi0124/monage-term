@@ -20,5 +20,6 @@ Preamble,Incase of conflict to Japanese version, Japanese version of articles wi
 ・Anything that might corresponds to above sentences.
 ・ Other acts that the developer of monage thinks inappropriate due to reasonable reason
 3, By agreeing this ToS, you agree to the enclosed Privacy Policy (https://github.com/raspi0124/monage-term/blob/master/privacy.txt).
+4, Any person under age of 16 should have parent permission in order to agree tos and use monage.
 4. This ToS can be changed without notice at anytime.
 In case of doubt that the above acts were done,we have right to report it to administrative organs such as police and ban from the service and other related service
