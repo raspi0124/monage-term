@@ -1,3 +1,5 @@
+PLEASE READ THIS CAREFULLY AND DO NOT AGREE THE TOS WITHOUT UNDERSTANDING.
+
 almost same meaning, easy to read. based on BSD,edited by Geri on Monacoin Discord:
 
 THIS SERVICE IS PROVIDED 'AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY
@@ -8,20 +10,21 @@ ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SERVICE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 IN CASE OF ANY DAMAGES TO THE SERVICE, THE SERVICE HAVE RIGHT TO REPORT TO ADMINISTRATIVE ORGANS SUCH AS POLICE AND BAN THE USER FROM THE SERVICE AND RELATED SERVICE.
-INCASE OF ANY CONFLICT TO JAPANESE VERSION OF TERM,OR INCASE OF ANY MISSING FROM JAPANESE VERSION, JAPANESE VERSION WILL BE APPLIED.
+INCASE OF ANY CONFLICT TO JAPANESE VERSION OF TERM,OR INCASE OF ANY MISSING FROM JAPANESE VERSION, JAPANESE VERSION OF TOS WILL BE APPLIED.
 
 
 Translated by me(raspi0124). hard to read.:
-Preamble,Incase of conflict to Japanese version, Japanese version of articles will be prefered and applied. "command "is defined as any strings that will execute monage bot.Using Monage with any command after UTC 11th March 12:00 means you accept following.
+Preamble,Incase of conflict to Japanese version, Japanese version of articles will be prefered and applied. "command "is defined as any strings that will execute monage bot.Using Monage with any command executed after UTC 11th March 12:00 means you accept following.
 1, Monage Developer will be careful of not making any bugs, but incase of lose of balance, Monage Developer will not get any responsibility with that.
 2. All functions available in Monage are prohibited from acts contrary to the following prohibitions, and we may disclose user information to agencies such as police that are reasonable judgment .
 ・Anything against law.
-・Actions that interfere with the use of this service by other users
+・Actions that interfere with the use of this service by other users.
 ・Anything that might corresponds to above sentences.
 ・ Other acts that the developer of monage thinks inappropriate due to reasonable reason
 3, By agreeing this ToS, you agree to the enclosed Privacy Policy (https://github.com/raspi0124/monage-term/blob/master/privacy.txt).
 4, Any person under age of 16 should have parent permission in order to agree tos and use monage.
-4. This ToS can be changed without notice at anytime.
-In case of doubt that the above acts were done,we have right to report it to administrative organs such as police and ban from the service and other related service
+5. This ToS can be changed without notice at anytime.
+In case of doubt that the above acts were done,we have right to report it to administrative organs such as police and ban from the service and other related service.
+In case of any damage to user, Monage's developer won't take any responsibilities.
 
-You may agree tos with /cagreedtos command.
+If you readlly understand this and accepting the tos, you may now agree tos with /cagreedtos command.
