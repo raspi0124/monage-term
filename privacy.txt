@@ -8,13 +8,16 @@
 
 個人情報の利用目的
 本サービスでは、実行されたコマンド及び実行された日時、誰に実行されたか、どのサーバー、チャンネルで実行されたかの情報等を常時保全のために記録しています。この情報はハッキングや不具合があると思われる等の際に使用されます。
+2018年4月24日または25日以降に記録されたユーザー自身のログについては/givemylogコマンドで参照できるものとします。
+
 
 個人情報の第三者への開示・提供の禁止
 弊サービスは、これらのログを適切に管理し、次のいずれかに該当する場合を除き、個人情報を第三者に開示いたしません。
 ・ユーザーの同意がある場合
 ・法令に基づき開示することが必要である場合
 
-
+これらの個人情報の削除方針
+これらのログはすべて開発者[@raspi0124]に問い合わせることによって取り消すことが可能とします。なお、このプロセスには最大で1か月かかるものとします。
 
 法令、規範の遵守と見直し
 弊サービスは、保有する個人情報に関して適用される日本の法令及び開発者の居住国の法律を遵守するとともに、本ポリシーの内容を適宜見直し、その改善に努めます。
@@ -24,7 +27,7 @@
 raspi0124[at]gmail.com
 
 Our service will establish the personal information protection policy as follows.
-
+*In case of any conflict to Japanese version, Japanese version will be prefered.
 Word means:
 Command - Any message starts with "/"
 This service or our service - Monage Discord Edition.
@@ -36,7 +39,7 @@ Giving personal info to other people:
 This service will manage your personal info, and won't public them except in case of those below happen.
 ・When user agreed to public it
 ・When it is necessary to disclose based on laws and ordinances
-
+Those log our service took after 24th of April can be downloaded using /givemylog command.
 
 Compliance with laws and regulations, norms and reviews:
 This service will follow Japanese law, and review this policy to implove.
