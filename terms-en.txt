@@ -27,4 +27,5 @@ Preamble,Incase of conflict to Japanese version, Japanese version of articles wi
 In case of doubt that the above acts were done,we have right to report it to administrative organs such as police and ban from the service and other related service.
 In case of any damage to user, Monage's developer won't take any responsibilities.
 
-If you readlly understand this and accepting the tos, you may now agree tos with /cagreedtos command.
+If you readlly understand this and accepting the tos, you may now agree tos with /ragreedtos command.
+If you really understood this ToS,accepting ToS and also want to help Monage and agreed to make omikuzi's giving amount to be 0 or down, please execute /cagreedtos.
