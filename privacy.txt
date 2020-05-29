@@ -32,14 +32,14 @@ Word means:
 Command - Any message starts with "/"
 This service or our service - Monage Discord Edition.
 
-Purpose to get personal info:
-Our service logs every command you typed on Monage invited Discord Server, and those logs are used to inspect in case of hacking or possibility of problem.
+Purpose of getting personal infos:
+Our service logs every command you typed on Monage invited Discord Server, and those logs are used to inspect in case of hacking or possibility of problem. Other infos, such as userid, username and message id may also be logged.
 
-Giving personal info to other people:
+The admin's policy on providing data to third party:
 This service will manage your personal info, and won't public them except in case of those below happen.
 ・When user agreed to public it
 ・When it is necessary to disclose based on laws and ordinances
-Those log our service took after 24th of April can be downloaded using /givemylog command.
+The logs that had been logged by Monage after 24/25th of April 2018, may be inspected using /givemylog command.
 
 Compliance with laws and regulations, norms and reviews:
 This service will follow Japanese law, and review this policy to implove.
